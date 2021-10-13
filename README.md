@@ -1,1 +1,1 @@
-# repo-curso
+# Fichero de lectura
